@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Coursework artifacts
+part1/src.model
+part1/src.vocab
+part1/tgt.model
+part1/tgt.vocab
+
