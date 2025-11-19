@@ -12,3 +12,5 @@ python train.py --model-config model_config_large.yaml --train-config train_conf
 
 Write-Host "All training completed!" -ForegroundColor Green
 
+
+
